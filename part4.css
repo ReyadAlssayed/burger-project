@@ -1,0 +1,121 @@
+.blue-div{
+    background-color:aqua;
+    width: 50%;
+    height: 750px;
+    margin-left:-10px;
+    margin-top:-10px;
+    border-bottom-right-radius:1000px;
+}
+
+
+.all-page{
+    display: flex;
+    margin-right: -15px;
+}
+
+
+.white-div{
+    background-color: white;
+    width: 50%;
+    height: 1000px;
+    margin-top:-10px;
+    
+}
+
+.box1{
+    background-color: white;
+    width: 250%;
+    height: 330px;
+    margin-left: 12px;
+    margin-top: 190px;
+    border-radius: 20px;
+    box-shadow: -2px 5px 10px 1px #c8c8c8;
+}
+
+input{
+    margin-left:23px;
+    margin-top:10px;
+    width: 84%;
+    padding:15px 10px;
+    background-color: #eee;
+    border:none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-bottom: 5px;
+    padding-left:50px;
+}
+
+::placeholder{
+    letter-spacing: 1px;
+}
+
+.name{
+    margin-top:45px;
+}
+
+button{
+    margin-left:23px;
+    margin-top:40px;
+    width: 92%;
+    padding:9px 10px;
+    background-color: aqua;
+    border:none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-bottom: 5px;
+    padding-left:50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:Hover{
+    background-color:aqua;
+}
+
+.paragraph1,
+.paragraph2{
+    text-align: center;  
+}
+
+.paragraph1{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.sign-up-here{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input,
+button{
+font-family: 'Cairo', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Skranji', cursive;
+}
+
+.reyad{
+/*font-family: 'Cairo', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Skranji', cursive;*/
+margin-left: 65px;
+margin-top: 330px;
+font-size: 55px;
+font-weight: bold;
+letter-spacing: 5px;
+font-family: Copperplate, Papyrus, fantasy;
+}
+
+input{
+    border: 1px aqua solid;
+}
